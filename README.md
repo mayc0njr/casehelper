@@ -10,4 +10,4 @@ Example:
 
 > string_in_camel_case string_in_snake_case
 
-By now only for camelCase <=> snake_case.
+By now only for c(C)amelCase <=> snake_case.
