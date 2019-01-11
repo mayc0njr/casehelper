@@ -6,8 +6,8 @@ Example:
 > stringInCamelCase
 
 
-> casehelper -s stringInCamelCase
+> casehelper -s stringInCamelCase string_in_snake_case
 
-> string_in_camel_case
+> string_in_camel_case string_in_snake_case
 
 By now only for camelCase <=> snake_case.
